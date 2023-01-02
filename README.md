@@ -1,5 +1,5 @@
 # 💫 About Me:
-Automation Testing
+I am Bhavesh Soni,passionate QA having 10+ Years of experience in Manual and Automation Testing.
 
 
 ## 🌐 Socials:
